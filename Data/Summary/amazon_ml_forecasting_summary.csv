@@ -1,0 +1,13 @@
+Algorithm,MAPE Train,MAPE Test,MAE Train,MAE Test,MSE Train,MSE Test,RMSE Train,RMSE Test
+Linear Regression,0.05,0.03,0.26,3.53,0.23,27.02,0.48,5.2
+Bayesian Ridge,0.05,0.03,0.26,3.53,0.23,27.03,0.48,5.2
+Support Vector Machine,0.05,0.03,0.28,3.84,0.26,31.17,0.51,5.58
+Decision Tree,0.0,0.5,0.0,65.29,0.0,5714.79,0.0,75.6
+Random Forest,0.02,0.51,0.08,66.22,0.02,5841.74,0.14,76.43
+Adaptive Boosting,0.83,0.52,0.74,67.03,0.87,5953.07,0.93,77.16
+Light Gradient Boosting Machine,0.05,0.52,0.17,67.41,0.08,6006.29,0.28,77.5
+Category Boosting,0.04,0.53,0.24,67.7,0.2,6046.6,0.45,77.76
+Extreme Gradient Boosting Machine,0.03,0.53,0.07,67.73,0.01,6052.97,0.1,77.8
+Gradient Boosting Machine,0.05,0.53,0.2,68.08,0.11,6102.68,0.33,78.12
+K Nearest Neighbors,0.04,0.53,0.19,68.21,0.11,6119.5,0.33,78.23
+Baseline,4.95,0.92,8.39,108.24,130.69,13181.87,11.43,114.81

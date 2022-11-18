@@ -1,0 +1,9 @@
+metric:
+  mae
+  
+parameters:
+  window_size: 21
+  horizon: 7
+  
+target_path:
+  /Users/kzeynalzade/Documents/FAANG Forecaster/Data/Historical Data

@@ -1,0 +1,14 @@
+2022-11-18 21:55:30,383 - INFO - Data has been loaded
+2022-11-18 21:55:31,000 - INFO - Forecaster with Baseline algorithm has been built
+2022-11-18 21:55:31,529 - INFO - Forecaster with Linear Regression algorithm has been built
+2022-11-18 21:59:58,276 - INFO - Forecaster with Support Vector Machine algorithm has been built
+2022-11-18 22:02:04,124 - INFO - Forecaster with Bayesian Ridge algorithm has been built
+2022-11-18 22:04:19,397 - INFO - Forecaster with K Nearest Neighbors algorithm has been built
+2022-11-18 22:04:20,492 - INFO - Forecaster with Decision Tree algorithm has been built
+2022-11-18 22:04:21,532 - INFO - Forecaster with Random Forest algorithm has been built
+2022-11-18 22:04:23,855 - INFO - Forecaster with Gradient Boosting Machine algorithm has been built
+2022-11-18 22:04:25,667 - INFO - Forecaster with Light Gradient Boosting Machine algorithm has been built
+2022-11-18 22:04:37,638 - INFO - Forecaster with Extreme Gradient Boosting Machine algorithm has been built
+2022-11-18 22:04:39,203 - INFO - Forecaster with Adaptive Boosting algorithm has been built
+2022-11-18 22:04:45,280 - INFO - Forecaster with Category Boosting algorithm has been built
+2022-11-18 22:04:47,713 - INFO - Forecaster built with Linear Regression algorithm has been saved as a pickle object
